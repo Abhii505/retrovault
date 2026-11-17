@@ -1,0 +1,13 @@
+# binaries
+*.exe
+*.o
+*.obj
+
+# reports (kept out of repo — too binary-heavy)
+*.docx
+
+# office lock files
+~$*
+
+# build helper (local only)
+build_report_v2.py
